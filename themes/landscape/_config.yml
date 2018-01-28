@@ -1,11 +1,12 @@
 # Header
 menu:
-  Home: /
-  Archives: /archives
+  Inicio: /
+  Productos: /productos
+  Contacto: /contacto
 rss: /atom.xml
 
 # Content
-excerpt_link: Read More
+excerpt_link: Descubre más
 fancybox: true
 
 # Sidebar
@@ -13,8 +14,6 @@ sidebar: right
 widgets:
 - category
 - tag
-- tagcloud
-- archive
 - recent_posts
 
 # display widgets at the bottom of index pages (pagination == 2)
@@ -30,7 +29,7 @@ show_count: false
 # Miscellaneous
 google_analytics:
 gauges_analytics:
-favicon: /favicon.png
+favicon: https://svgshare.com/i/5DU.svg
 twitter:
 google_plus:
 fb_admins:
